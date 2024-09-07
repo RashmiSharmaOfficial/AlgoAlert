@@ -17,7 +17,6 @@ import { AngularFireAuthModule } from '@angular/fire/compat/auth';
     AngularFireAuthModule, // Import AngularFireAuthModule
   ],
   providers: [
-
   ]
 })
 export class AuthModule { }
