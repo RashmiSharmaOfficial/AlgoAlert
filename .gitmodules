@@ -1,0 +1,3 @@
+[submodule "algo-alert-fe"]
+	path = algo-alert-fe
+	url = https://github.com/RashmiSharmaOfficial/AlgoAlert.git
